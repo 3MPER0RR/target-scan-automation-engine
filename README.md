@@ -1,4 +1,4 @@
-# AIsploit
+# OffensiveAutomaticTool
 USE ONLY IN YOUR LAB FOR TEST
 
 Educational and research-oriented Python framework for offensive security labs. 
