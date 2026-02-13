@@ -27,5 +27,4 @@ pip install python-nmap
 
 pip install streamlit
 
-streamlit run aisploit.py --server.port 8888
-
+streamlit run OffensiveAutomaticTool.py --server.port 8888
